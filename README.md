@@ -1,5 +1,5 @@
 # MinYTD
-A minimalistic GUI Youtube downloader based on pytube and tkinter.
+A minimalistic cross-platform GUI Youtube downloader based on pytube and tkinter.
 
 This is a minimalistic GUI based youtube downloader written in *python3* using *pytube* and *tkinter* at the backend and frontend respectiveley.
 - Supports multiple concurrent downloads.
